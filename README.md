@@ -3,12 +3,12 @@ Comparing two different architectures of RNNs, the former a bidirectional GRU an
 
 ---
 # Technologies
-- Pytorch
-- Natural Language ToolKit (NLTK)
-- Scikit-learn
-- Pandas, Numpy
-- Netron.app
-- Matplotlib
+- `Pytorch`
+- `Natural Language ToolKit (NLTK)`
+- `Scikit-learn`
+- `Pandas, Numpy`
+- `Netron.app`
+- `Matplotlib`
 ---
 # Model Architectures
 
