@@ -2,7 +2,7 @@
 Comparing two different architectures of RNNs, the former a bidirectional GRU and the latter a bidirection LSTM, on how they train on a text categorization task.
 
 ---
-# Technologies
+## Technologies
 - `Pytorch`
 - `Natural Language ToolKit (NLTK)`
 - `Scikit-learn`
@@ -10,6 +10,6 @@ Comparing two different architectures of RNNs, the former a bidirectional GRU an
 - `Netron.app`
 - `Matplotlib`
 ---
-# Model Architectures
+## Model Architectures
 
-# Training-Validation Curves
+## Training-Validation Curves
