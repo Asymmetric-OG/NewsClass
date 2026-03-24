@@ -12,4 +12,6 @@ Comparing two different architectures of RNNs, the former a bidirectional GRU an
 ---
 ## Model Architectures
 
+
 ## Training-Validation Curves
+![Uploading lstm.onnx.svg…]()
